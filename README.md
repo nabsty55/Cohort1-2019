@@ -3,3 +3,5 @@
 
 1. Edison Abahurire - @simicode
 2. Bruno Nicholas s - @BrunoNicholas
+3. Peter Angusa - @pitaangusa
+4. Paul Owori - @Paul-Owori
